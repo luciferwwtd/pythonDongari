@@ -37,16 +37,6 @@ Type of Team Peoplz
 | Give Ideas   | to work   | Live.
 {: rules="groups"}
 
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
 ## Buttons
 
 Make any link standout more when applying the `.btn` class.
@@ -73,5 +63,5 @@ Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midto
 
 ## Notices
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+**Watch out!** The CTO is a little busy so sometimes might not able to work. Cry about it lol
 {: .notice}
