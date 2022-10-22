@@ -1,74 +1,39 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "Welcome!"
+date:   2022-10-22
+excerpt: "This is the posts of World War Tower Defense developers."
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- announcement
 comments: true
 ---
 
-## HTML Elements
+## Welcome!
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+###Welcome to **World War Tower Defense** dev's posts. Developers will post their stuff on here, Things like **updates**, *etc*.
 
-# Heading 1
+> Developers List
 
-## Heading 2
+##Type of developers
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
+1. CEO
+2. CTO
+3. Desginers/Idea Givers
 
 ### Unordered Lists
 
-* Item one
-* Item two
-* Item three
+* CEO - hoguma
+* CTO - Lucifer
+* Designers/Idea Givers - kokyurok, HK
 
-## Tables
+## Jobs
 
-| Header1 | Header2 | Header3 |
+| hoguma | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|----
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
 
