@@ -14,13 +14,13 @@ comments: true
 
 > Developers List
 
-##Type of developers
+Type of Team Peoplz
 
 1. CEO
 2. CTO
 3. Desginers/Idea Givers
 
-### Unordered Lists
+### Peoplz
 
 * CEO - hoguma
 * CTO - Lucifer
@@ -28,13 +28,13 @@ comments: true
 
 ## Jobs
 
-| hoguma | Header2 | Header3 |
+| hoguma | Lucifer | Kyokyurok |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-| Foot1   | Foot2   | Foot3
+| Tell kokyurok to work   | Basically   | Talk.   |
+| Make models   | Everything   | Walk.   |
+| Make scripts   | Except   | Give Ideas   |
+| Can't log into Studio   | Telling kokyurok   | Make Models   |
+| Give Ideas   | to work   | Live.
 {: rules="groups"}
 
 ## Code Snippets
