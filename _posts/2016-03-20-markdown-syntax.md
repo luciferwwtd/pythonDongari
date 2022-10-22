@@ -10,7 +10,7 @@ comments: true
 
 ## Welcome!
 
-###Welcome to **World War Tower Defense** dev's posts. Developers will post their stuff on here, Things like **updates**, *etc*.
+### Welcome to **World War Tower Defense** dev's posts. Developers will post their stuff on here, Things like **updates**, *etc*.
 
 > Developers List
 
@@ -36,30 +36,6 @@ Type of Team Peoplz
 | Can't log into Studio   | Telling kokyurok   | Make Models   |
 | Give Ideas   | to work   | Live.
 {: rules="groups"}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## KBD
-
-You can also use `<kbd>` tag for keyboard buttons.
-
-{% highlight html %}
-<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
-{% endhighlight %}
-
-Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
 
 ## Notices
 
