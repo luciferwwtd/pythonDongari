@@ -7,14 +7,6 @@ date: 2016-03-21
 comments: true
 ---
     
-<center>World War Tower Defense is a tower defense made by wwtd development team, aka burtowde team</center>
+## 장호원 고등학교 파이썬 기초 코딩 동아리에서 한 수업의 내용들을 쓰고 복습하기 위해 만든 사이트입니다.
 
-## About
-
-Visit [World War Tower Defense Discord](https://discord.gg/X7ccTCqwkY) to check the most recent changes of the game
-
-## What is this game?
-
-World War Tower Defense is a game that is based on World War 1. 
-      
-[Install Moon](https://open.kakao.com/o/g54v4LGe){: .btn}
+## 수정해야할 사항이 있다면 1학년 4반 이수형에게 직접 말하거나 톡방을 이용해주세요.
