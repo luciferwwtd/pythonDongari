@@ -1,43 +1,35 @@
 ---
 layout: post
-title:  "Welcome!"
-date:   2022-10-22
-excerpt: "This is the posts of World War Tower Defense developers."
+title:  "1차시 - 코딩의 기초와 다양한 자료형"
+date:   2023-03-21
+excerpt: ""
 tag:
 - announcement
 comments: true
 ---
 
-## Welcome!
+## 코딩의 기초
 
-### Welcome to **World War Tower Defense** dev's posts. Developers will post their stuff on here, Things like **updates**, *etc*.
+### 코딩은 컴퓨터와의 소통으로, 코딩 언어라는 번역기로 컴퓨터에게 명령을 내리는것입니다.
 
-> Developers List
+### 명령 간의 구분은 줄로 구별합니다
 
-Type of Team Peoplz
+## 자료형
 
-1. CEO
-2. CTO
-3. Desginers/Idea Givers
+### 자료형 : 변수의 종류
 
-### Peoplz
+### 기본 자료형 목록
 
-* CEO - hoguma
-* CTO - Lucifer
-* Designers/Idea Givers - kokyurok, HK
-
-## Jobs
-
-| hoguma | Lucifer | Kyokyurok |
-|:--------|:-------:|--------:|
-| Tell kokyurok to work   | Basically   | Talk.   |
-| Make models   | Everything   | Walk.   |
-| Make scripts   | Except   | Give Ideas   |
-| Can't log into Studio   | Telling kokyurok   | Make Models   |
-| Give Ideas   | to work   | Live.
+| 이름 | 저장하는 정보 | 사용 방식 | 예시 |
+|:--------|:-------:|:-------:|--------:|
+| 문자열 | 문자 | "문자" | "A" |
+| 숫자형 | 숫자(정수) | 숫자 | 1 |
+| 리스트 | 여러 항목들 | [항목1, 항목2...] | [1, 2] |
+| 튜플 | 중복되지 않는 불변값 항목들 | (항목1, 항목2) | (1, 2) |
+| 딕셔너리 | 키로 지정된 여러 항목 | {키1 : 항목1, 키2 : 항목2} | {1 : 3, 4 : 5} |
 {: rules="groups"}
 
 ## Notices
 
-**Watch out!** The CTO is a little busy so sometimes might not able to work. Cry about it lol
+**참고 사항** : 이곳에 입력된것 중 수업에 있지 않은 내용은 수업 중 말하는걸 잊은 것이거나 알아두면 좋은것들입니다.
 {: .notice}
