@@ -1,7 +1,7 @@
 # Site
-title:              World War Tower Defense
-bio:                'Developer Notes'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              장고 파이썬 기초 코딩 동아리
+bio:                '복습용 사이트'
+description:        ""
 reading_time:       true
 words_per_minute:   200
 #logo:               'assets/img/WW1 TD.png'
