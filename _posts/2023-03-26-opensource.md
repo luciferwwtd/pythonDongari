@@ -19,3 +19,7 @@ comments: true
 
 **기술들 중 하나를 투표로 정해 배울것이니 그때까지 결정해 놓는것이 좋습니다.**
 {: .notice}
+
+https://www.python.org/downloads/
+https://www.anaconda.com/download
+https://www.jetbrains.com/pycharm/download/?section=windows
